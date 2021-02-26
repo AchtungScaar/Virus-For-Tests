@@ -10,8 +10,6 @@ Well these were made for testing on machines or for testing how good your anti v
 Some are good virus some are trash but at the end of the day it is for testing how well your anti virus is at detecting virus
 
 #
-####
-#####
 
 # Contact
 Discord: Achutaine#6778
